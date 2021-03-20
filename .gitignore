@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+weather_trends/api_keys.py
+vacation_trends/api_keys.py
+
+
 # Distribution / packaging
 .Python
 build/
